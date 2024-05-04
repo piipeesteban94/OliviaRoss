@@ -1,3 +1,7 @@
+body {
+    font-family: "Raleway", sans-serif;
+  }
+
 #imglogo{
     top: 19px;
     left: 170px;
@@ -7,7 +11,7 @@
     opacity: 1;
 }
 
-#Hero-Section {
+header{
     background-image: url("/assets/img/bg-hero.jpg");
     background-repeat: no-repeat;
     background-size: cover;
